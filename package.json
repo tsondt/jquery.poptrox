@@ -1,0 +1,20 @@
+{
+  "name": "jquery.poptrox",
+  "version": "2.5.1",
+  "description": "A lightbox gallery plugin for jQuery.",
+  "keywords": [
+    "jquery",
+    "gallery",
+    "lightbox"
+  ],
+  "homepage": "http://n33.co",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tsondt/jquery.poptrox"
+  },
+  "license": "MIT",
+  "main": "./jquery.poptrox.js",
+  "dependencies": {
+    "jquery": ">=1.7"
+  }
+}
